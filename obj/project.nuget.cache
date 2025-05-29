@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3G+iaUdK+Bk=",
+  "success": true,
+  "projectFilePath": "/Users/shankarganesh/Desktop/seleniumtest/seleniumtest.csproj",
+  "expectedPackageFiles": [
+    "/Users/shankarganesh/.nuget/packages/selenium.support/4.33.0/selenium.support.4.33.0.nupkg.sha512",
+    "/Users/shankarganesh/.nuget/packages/selenium.webdriver/4.33.0/selenium.webdriver.4.33.0.nupkg.sha512"
+  ],
+  "logs": []
+}
