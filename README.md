@@ -15,7 +15,7 @@ This project automates testing of a practice form using Selenium WebDriver with 
 
 ## Demo
 
-![Demo Video](recorded_video.mp4)
+![Demo Video] (https://youtu.be/RK3XkE_bhII)
 
 ## How It Works
 
