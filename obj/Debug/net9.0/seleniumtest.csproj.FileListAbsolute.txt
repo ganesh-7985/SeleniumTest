@@ -19,3 +19,4 @@
 /Users/shankarganesh/Desktop/seleniumtest/obj/Debug/net9.0/seleniumtest.pdb
 /Users/shankarganesh/Desktop/seleniumtest/obj/Debug/net9.0/seleniumtest.genruntimeconfig.cache
 /Users/shankarganesh/Desktop/seleniumtest/obj/Debug/net9.0/ref/seleniumtest.dll
+/Users/shankarganesh/Desktop/seleniumtest/obj/Debug/net9.0/seleniumtest.sourcelink.json
